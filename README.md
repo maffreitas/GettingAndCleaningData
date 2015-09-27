@@ -20,6 +20,6 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## Contents
-README.md: This own file, with the summary about the files and scripts
-run_analysis.R: The script in R, that downloads all the required files to complete the task. At the end will be created two TXT files: MeanSTD.txt and Activity.txt
-CodeBook.md: The file with the basics informations about the funcionalities implemented on the run_analysis.R
+* README.md: This own file, with the summary about the files and scripts
+* run_analysis.R: The script in R, that downloads all the required files to complete the task. At the end will be created two TXT files: MeanSTD.txt and Activity.txt
+* CodeBook.md: The file with the basics informations about the funcionalities implemented on the run_analysis.R
