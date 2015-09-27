@@ -1,6 +1,6 @@
 # Preparing the work directory
 WD <- getwd()
-dirGCT <- "/Users/marcos.de.freitas/Google Drive/Coursera/DataScience/GettingAndCleaningData"
+dirGCT <- "../GettingAndCleaningData"
 if ( WD != dirGCT){
 setwd(dirGCT)
 } 
